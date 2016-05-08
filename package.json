@@ -1,0 +1,29 @@
+{
+  "name": "mips-simulator",
+  "version": "1.0.0",
+  "description": "a simulator of mips",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zccz14/MIPS-Simulator.git"
+  },
+  "keywords": [
+    "mips",
+    "js",
+    "simulator"
+  ],
+  "author": "Riki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zccz14/MIPS-Simulator/issues"
+  },
+  "homepage": "https://github.com/zccz14/MIPS-Simulator#readme",
+  "dependencies": {
+    "jsx-loader": "^0.13.2",
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2"
+  }
+}
